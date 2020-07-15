@@ -1,1 +1,1 @@
-# BullsAndCows.gothub.io
+# BullsAndCows.github.io
